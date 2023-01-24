@@ -10,9 +10,13 @@ For this analysis, we're going to use AWS, where we're going to create a databas
 
 ## Results
 
-The first part of our analysis consisted of creating a vine table where we filtered the most important columns to calculate our results (review_id, star_rating, helpful_votes, total_votes, vine,verified_purchase). Then, we spplited the results of the vine program inot two dataframes: paid reviews and unpaid reviews. Here are the results of our dataframes.
+The first part of our analysis consisted of creating a vine table where we filtered the most important columns to calculate our results (review_id, star_rating, helpful_votes, total_votes, vine,verified_purchase). 
 
-images
+<img width="746" alt="Screenshot 2023-01-23 at 23 11 41" src="https://user-images.githubusercontent.com/112814924/214214222-7905f443-4cea-4314-9d29-0e7cb7ca58d0.png">
+
+Then, we splited the results of the vine program inot two dataframes: paid reviews and unpaid reviews. Here are the results of our dataframes.
+
+<img width="696" alt="Screenshot 2023-01-23 at 23 12 13" src="https://user-images.githubusercontent.com/112814924/214214292-e085a306-d961-4dfb-97ac-3c7d9f7e12e2.png"> <img width="715" alt="Screenshot 2023-01-23 at 23 12 26" src="https://user-images.githubusercontent.com/112814924/214214323-913f78e8-48f2-4bd7-9e6a-2325af495a96.png">
 
 To further this analysis, we calculated the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for all Vine and non-Vine reviews.
 
@@ -20,19 +24,19 @@ To further this analysis, we calculated the total number of reviews, the number 
 
 Our results show that in total there are 21 vine reviews and 7689 non-Vine reviews.
 
-images
+<img width="307" alt="Screenshot 2023-01-23 at 23 12 58" src="https://user-images.githubusercontent.com/112814924/214214352-3409b28f-25fc-4f14-8b96-d19d5cd1d597.png"> <img width="339" alt="Screenshot 2023-01-23 at 23 13 41" src="https://user-images.githubusercontent.com/112814924/214214410-ff89afe7-bfd5-40d8-b329-da608a6a233c.png">
 
 ### - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 We can see from the results that 11 vine reviews were 5 stars and 4444 non reviews were 5 stars.
 
-images
+<img width="539" alt="Screenshot 2023-01-23 at 23 13 10" src="https://user-images.githubusercontent.com/112814924/214214496-cd1c11d7-2fb0-48b0-85b0-f0f0d1fe0130.png"> <img width="567" alt="Screenshot 2023-01-23 at 23 14 03" src="https://user-images.githubusercontent.com/112814924/214214505-560b8bdd-a191-4ca7-9530-de79df849bf1.png">
 
 ### - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 This is a very intersting result. The percentage of 5 stars Vine reviews was 52% and the percentage of 5 stars non-Vine reviews was 57%, which means that from this specific dataset there was a higher percentage from non-Vine reviewers.
 
-images
+<img width="616" alt="Screenshot 2023-01-23 at 23 13 28" src="https://user-images.githubusercontent.com/112814924/214214534-8da63cb4-4cff-40ea-ba5d-de46d99c030c.png"> <img width="635" alt="Screenshot 2023-01-23 at 23 14 13" src="https://user-images.githubusercontent.com/112814924/214214542-ef781ce7-2683-4088-a26c-e2deb85e6e38.png">
 
 ## Summary 
 
