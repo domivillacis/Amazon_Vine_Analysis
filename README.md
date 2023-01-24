@@ -54,7 +54,7 @@ The vine program is based on detailed, honest and unbiased opinions. Our dataset
 
 This means that as a seller through the Amazon Vine program, you cannot buy 5-star reviews, which makes Amazon's review system very trustworthy.
 
-For that reason, our results mean that enrolling in a program that offers free products for reviews may not be the strategy that $ellby should focus on, instead they may consider focusing on the quality, durability and price of the products that will be part of the catalogue. This will allow all consumers to leave a real opinion about these products.
+For that reason, our results mean that enrolling in a program that offers free products for reviews may not be the strategy that $ellby should focus on, instead they may consider focusing on the quality, durability and price of the products that will be part of the catalog. This will allow all consumers to leave a real opinion about these products.
 
 One additional analysis I would suggest $ellby is to look at the non-5-star reviews and see if the results skew more towards 1-star or 4-star reviews, to learn about consumer preferences.
 
