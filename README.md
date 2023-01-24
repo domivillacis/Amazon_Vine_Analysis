@@ -6,7 +6,9 @@ For this project I collaborated as a data analyst with Big Market, a company tha
 
 Our client $ellby, is an eCommerce platform that's about to launch a large product catalog on a retail website, but needs help comparing how their product reviews compared to the competition are selling and they'd also like to enroll in a program that offers free products to selected reviewers, but first they need to know if this idea will benefit them and if it is worth the investment.
 
-For this analysis, we're going to use AWS, where we're going to create a database and a bucket that will be linked to a server in pgAdmin so that we'll be able to read and analyse our large csv file.
+For this analysis, we're going to use AWS, the platform where we're going to create a database and a bucket that will be linked to a server in pgAdmin so that we'll be able to read and analyse our large csv file.
+
+Let's go shopping!! 🛍️
 
 ## Results
 
