@@ -62,6 +62,4 @@ One additional analysis I would suggest $ellby is to look at the non-5-star revi
 
 Platform: AWS
 
-Open Source: PySPark
-
-SQL, Google Colab
+Software: PySPark, SQL, Google Colab
