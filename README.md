@@ -8,7 +8,7 @@ Our client $ellby, is an eCommerce platform that's about to launch a large produ
 
 For this analysis, we're going to use AWS, the platform where we're going to create a database and a bucket that will be linked to a server in pgAdmin so that we'll be able to read and analyse our large csv file.
 
-Let's go shopping!! 🛍️
+Let's write some reviews!! ⭐
 
 ## Results
 
