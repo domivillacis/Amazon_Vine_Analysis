@@ -52,7 +52,7 @@ This is a very interesting result. The percentage of 5-star Vine reviews was 52%
 
 The vine program is based on detailed, honest and unbiased opinions. Our dataset showed that this is a valuable program because although some customers were paid to leave their reviews, the results did not show a higher percentage of 5-star ratings compared to non-paid reviewers. 
 
-This means that as a seller through the Amazon Vine program, you cannot buy 5-star reviews, which makes Amazon's review system very trustworthy.
+This means that as a seller through the Amazon Vine program, you cannot buy 5-star reviews, which makes Amazon's review system trustworthy.
 
 For that reason, our results mean that enrolling in a program that offers free products for reviews may not be the strategy that $ellby should focus on, instead they may consider focusing on the quality, durability and price of the products that will be part of the catalog. This will allow all consumers to leave a real opinion about these products.
 
@@ -63,3 +63,5 @@ One additional analysis I would suggest $ellby is to look at the non-5-star revi
 Platform: AWS
 
 Software: PySPark, SQL, Google Colab
+
+Dataset: [on this link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) (Jewelry_v1_00.tsv.gz)
